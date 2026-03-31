@@ -1,7 +1,8 @@
 ---
 name: presales-demo-planning
-version: 0.1
-date: 2026-03-22
+metadata:
+  date: 2026-03-22
+  version: "1.0"
 description: >
   Plan and prepare Sanity presales demos for Solution Engineers. Use this skill
   whenever an SE needs to run discovery, prepare a tailored demo, or plan what
