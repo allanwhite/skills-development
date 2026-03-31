@@ -1,7 +1,5 @@
 # Enterprise Trigger → Feature Mapping
-
-*Load this when building the demo plan to decide which enterprise features
-to highlight. Map each trigger found in discovery to the features below.*
+*Load this when building the demo plan to decide which enterprise features to highlight. Map each trigger found in discovery to the features below.*
 
 ---
 
@@ -21,8 +19,7 @@ to highlight. Map each trigger found in discovery to the features below.*
 
 ## Mapping Enterprise Buying Triggers
 
-These are the `reasonForEnterprise` values from Atlas. Map them to the
-triggers above:
+These are the `reasonForEnterprise` values from Atlas. Map them to the triggers above:
 
 | Atlas reason | Maps to trigger |
 |-------------|----------------|
@@ -40,9 +37,5 @@ triggers above:
 Most enterprise prospects have 2-3 triggers, not just one. When combining:
 
 - Lead the demo with the trigger closest to their primary pain point.
-- Layer secondary triggers into the relevant section of the narrative arc
-  (e.g., compliance features during the enterprise features section, not
-  during the content model section).
-- Don't show every enterprise feature. Show only what they asked about or
-  what directly addresses a stated concern. Unrequested features dilute
-  the demo.
+- Layer secondary triggers into the relevant section of the narrative arc (e.g., compliance features during the enterprise features section, not during the content model section).
+- Don't show every enterprise feature. Show only what they asked about or what directly addresses a stated concern. Unrequested features dilute the demo.
